@@ -6,7 +6,7 @@ Name: 吳佩怡
 Image classification with ResNet-50
 
 ## How to Install
-Pull from the repository and install dependencies
+Clone the repository and install dependencies
 ```
 git clone https://github.com/opy2001/NYCU-VRDL-2025-Spring-HW1.git
 pip install requirements.txt
