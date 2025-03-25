@@ -16,5 +16,14 @@ pip install requirements.txt
 conda create --name env_name python=3.9
 conda activate env_name
 ```
+Model training, evaluation and result visualization
+```
+python main.py
+```
+Prediction with testset and save results as csv file
+```
+python predict.py
+```
 
 ## Performance Snapshot
+![image](https://github.com/user-attachments/assets/9fd76538-5821-4562-a588-9123fe6860b3)
