@@ -21,7 +21,7 @@ Train the model, save model checkpoint and evaluate mAP for each epoch
 ```
 python train.py
 ```
-Test the model with provided image dataset
+Test the model with provided image dataset, results saved as json and csv file
 ```
 python test.py
 ```
