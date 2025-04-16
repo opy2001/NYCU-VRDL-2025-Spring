@@ -2,7 +2,4 @@ torch
 torchvision
 matplotlib
 pillow
-pandas
-scikit-learn
 tqdm
-pycocotools
