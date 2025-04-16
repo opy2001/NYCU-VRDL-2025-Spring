@@ -4,7 +4,7 @@ StudentID: 313553047
 Name: 吳佩怡
 
 ## Introduction
-Digit recognition with Faster RCNN, implemented with ResNet-50 backbone with FPN.
+Digit recognition with Faster RCNN, implemented with ResNet-50 backbone with FPN
 
 ## How to Install
 Clone the repository and install dependencies
@@ -27,4 +27,5 @@ python test.py
 ```
 
 ## Performance Snapshot
+![snapshot](https://github.com/user-attachments/assets/b3fcbfbf-63ce-4aee-a60e-83a5df1ed309)
 
