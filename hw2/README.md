@@ -4,7 +4,7 @@ StudentID: 313553047
 Name: 吳佩怡
 
 ## Introduction
-Digit recognition with Faster RCNN
+Digit recognition with Faster RCNN, implemented with ResNet-50 backbone with FPN.
 
 ## How to Install
 Clone the repository and install dependencies
@@ -17,11 +17,11 @@ pip install requirements.txt
 conda create --name env_name python=3.9
 conda activate env_name
 ```
-Train the model, save model checkpoint and evaluate mAP for each epoch
+Train the model, save model checkpoints and evaluate mAP for each epoch
 ```
 python train.py
 ```
-Test the model with provided image dataset, results saved as json and csv file
+Test the model with provided image dataset, results saved as zip file containing pred.json and pred.csv
 ```
 python test.py
 ```
