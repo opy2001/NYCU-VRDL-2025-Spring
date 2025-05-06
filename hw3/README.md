@@ -26,3 +26,4 @@ python test.py
 ```
 
 ## Performance Snapshot
+<img width="1157" alt="Screenshot 2025-05-06 at 2 22 15 PM" src="https://github.com/user-attachments/assets/a0397e23-5ac3-4bc1-8bbf-3e9f63e33cec" />
