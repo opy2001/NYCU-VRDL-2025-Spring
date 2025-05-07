@@ -3,7 +3,7 @@ StudentID: 313553047
 Name: 吳佩怡
 
 ## Introduction
-Instance segmentation with Mask RCNN, implemented with ResNet-50 backbone with FPN
+Instance segmentation with Mask RCNN, implemented with ResNet-50 backbone
 
 ## How to Install
 Clone the repository and install dependencies
