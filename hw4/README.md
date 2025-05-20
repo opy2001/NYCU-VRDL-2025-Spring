@@ -3,7 +3,7 @@ StudentID: 313553047
 Name: 吳佩怡
 
 ## Introduction
-Image restoration base on PromptIR model, modifications made to be suitable for the given dataset
+Image restoration based on PromptIR model, modifications made to be suitable for the given dataset
 
 ## How to Install
 Clone the repository and install dependencies
