@@ -18,7 +18,6 @@ conda activate env_name
 ```
 Train the model, save model checkpoints and evaluate loss and psnr for each epoch
 ```
-
 python train.py
 ```
 Test the model with provided dataset, results saved as zip file containing pred.npz  
