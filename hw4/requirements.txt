@@ -1,0 +1,7 @@
+torch
+torchvision
+matplotlib
+pillow
+scikit-image
+einops
+piq
