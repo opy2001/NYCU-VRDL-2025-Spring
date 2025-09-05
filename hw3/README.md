@@ -9,7 +9,7 @@ Instance segmentation with Mask RCNN, implemented with ResNet-50 backbone
 Clone the repository and install dependencies
 ```
 git clone https://github.com/opy2001/NYCU-VRDL-2025-Spring.git
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 (Optional) Create and run under virtual environment
 ```
